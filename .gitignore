@@ -1,0 +1,11 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore checkpoints folder
+checkpoints/
+
+# Ignore landmark images folder
+landmark_images/
